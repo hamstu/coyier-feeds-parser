@@ -41,11 +41,12 @@ try:
    for f in feeds:
       info = {'feedtitle': f[0], 'siteurl': f[1], 'feedurl': f[2]}      
       xmldata = OPML_TEMPLATE_ITEM.format(**info)
-      print xmldata
       opml.write(xmldata)
    
 except:
    print "Error in processing feeds."
-   
+
 opml.write(OPML_TEMPLATE_BOTTOM)
 opml.close()
+
+print "Succuessfully wrote OPML file: coyier-subscriptions.xml"
