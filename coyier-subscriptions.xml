@@ -1,0 +1,152 @@
+
+<opml version="1.0">
+    <head>
+        <title>Chris Coyier's Favorite Blogs</title>
+    </head>
+    <body>
+<outline text="Yaron Schoen" title="Yaron Schoen" type="rss" xmlUrl="http://www.yaronschoen.com/site/atom/" htmlUrl="http://yaronschoen.com/"/>
+<outline text="Oli Studholme" title="Oli Studholme" type="rss" xmlUrl="http://oli.jp/articles.atom" htmlUrl="http://oli.jp/"/>
+<outline text="Joe Lifrieri" title="Joe Lifrieri" type="rss" xmlUrl="http://blog.hugsformonsters.com/rss" htmlUrl="http://hugsformonsters.com"/>
+<outline text="Thibaut Sailly" title="Thibaut Sailly" type="rss" xmlUrl="http://bureau.tsailly.net/rss.xml" htmlUrl="http://bureau.tsailly.net/"/>
+<outline text="Chris Wallace" title="Chris Wallace" type="rss" xmlUrl="http://feeds.feedburner.com/chris-wallace/Qynv" htmlUrl="http://www.chris-wallace.com/"/>
+<outline text="Darcy Clarke" title="Darcy Clarke" type="rss" xmlUrl="http://feeds.feedburner.com/DarcyClarkesBlog" htmlUrl="http://darcyclarke.me/"/>
+<outline text="Dave Rupert" title="Dave Rupert" type="rss" xmlUrl="http://daverupert.com/feed/" htmlUrl="http://daverupert.com"/>
+<outline text="Leah Culver" title="Leah Culver" type="rss" xmlUrl="http://www.leahculver.com/feed/" htmlUrl="http://blog.leahculver.com/"/>
+<outline text="Eric Meyer" title="Eric Meyer" type="rss" xmlUrl="http://meyerweb.com/index.php?feed=rss2&#038;scope=full" htmlUrl="http://meyerweb.com/"/>
+<outline text="Mark Otto" title="Mark Otto" type="rss" xmlUrl="http://feeds.feedburner.com/mdo" htmlUrl="http://www.markdotto.com"/>
+<outline text="Dustin Curtis" title="Dustin Curtis" type="rss" xmlUrl="http://feeds2.feedburner.com/dustincurtis" htmlUrl="http://www.dustincurtis.com/"/>
+<outline text="Brian Hoff" title="Brian Hoff" type="rss" xmlUrl="http://feeds2.feedburner.com/thedesigncubicle/ioNz" htmlUrl="http://www.thedesigncubicle.com/"/>
+<outline text="Stephanie Rewis" title="Stephanie Rewis" type="rss" xmlUrl="http://blog.w3conversions.com/feed/" htmlUrl="http://blog.w3conversions.com"/>
+<outline text="Rogie King" title="Rogie King" type="rss" xmlUrl="http://feeds.feedburner.com/komodomedia" htmlUrl="http://www.komodomedia.com/"/>
+<outline text="Craig Hockenberry" title="Craig Hockenberry" type="rss" xmlUrl="http://furbo.org/feed/" htmlUrl="http://furbo.org/"/>
+<outline text="John Dyer" title="John Dyer" type="rss" xmlUrl="http://feeds.feedburner.com/johndyer" htmlUrl="http://johndyer.name/"/>
+<outline text="Kit MacAllister" title="Kit MacAllister" type="rss" xmlUrl="http://kitmacallister.com/feed/" htmlUrl="http://kitmacallister.com/"/>
+<outline text="Lea Verou" title="Lea Verou" type="rss" xmlUrl="http://leaverou.me/feed/" htmlUrl="http://leaverou.me"/>
+<outline text="Luc Latulippe" title="Luc Latulippe" type="rss" xmlUrl="http://tumblr.luclatulippe.com/rss" htmlUrl="http://tumblr.luclatulippe.com/"/>
+<outline text="Richard Rutter" title="Richard Rutter" type="rss" xmlUrl="http://feeds.feedburner.com/Clagnut" htmlUrl="http://clagnut.com/"/>
+<outline text="Matt Mullenweg" title="Matt Mullenweg" type="rss" xmlUrl="http://xml.photomatt.net/feed/" htmlUrl="http://ma.tt"/>
+<outline text="Andy Croll" title="Andy Croll" type="rss" xmlUrl="http://feeds.feedburner.com/andycroll" htmlUrl="http://posterous.andycroll.com/"/>
+<outline text="Andrew Nacin" title="Andrew Nacin" type="rss" xmlUrl="http://www.andrewnacin.com/feed/" htmlUrl="http://andrewnacin.com"/>
+<outline text="Daniel Mall" title="Daniel Mall" type="rss" xmlUrl="http://www.danielmall.com/index.rdf" htmlUrl="http://www.danielmall.com/"/>
+<outline text="Andy Clarke" title="Andy Clarke" type="rss" xmlUrl="http://feeds.feedburner.com/ForABeautifulWeb" htmlUrl="http://stuffandnonsense.co.uk/blog"/>
+<outline text="Whitney Hess" title="Whitney Hess" type="rss" xmlUrl="http://feeds.feedburner.com/whitneyhess" htmlUrl="http://whitneyhess.com/blog"/>
+<outline text="Marco Arment" title="Marco Arment" type="rss" xmlUrl="http://feeds.feedburner.com/marcoorg" htmlUrl="http://www.marco.org/"/>
+<outline text="Kyle Meyer" title="Kyle Meyer" type="rss" xmlUrl="http://astheria.com/feed" htmlUrl="http://astheria.com"/>
+<outline text="Jason Kottke" title="Jason Kottke" type="rss" xmlUrl="http://feeds.kottke.org/main" htmlUrl="http://kottke.org/"/>
+<outline text="Mathias Bynens" title="Mathias Bynens" type="rss" xmlUrl="http://mathiasbynens.be/notes.rss" htmlUrl="http://mathiasbynens.be/"/>
+<outline text="Tim Van Damme" title="Tim Van Damme" type="rss" xmlUrl="http://feeds.feedburner.com/maxvoltar" htmlUrl="http://maxvoltar.com/"/>
+<outline text="Divya Manian" title="Divya Manian" type="rss" xmlUrl="http://feeds.feedburner.com/nimbu" htmlUrl="http://nimbupani.com/"/>
+<outline text="Sarah Parmenter" title="Sarah Parmenter" type="rss" xmlUrl="http://feeds.feedburner.com/sarahparmenter" htmlUrl="http://www.sazzy.co.uk"/>
+<outline text="Simurai" title="Simurai" type="rss" xmlUrl="http://simurai.com/rss" htmlUrl="http://simurai.com/"/>
+<outline text="Estelle Weyl" title="Estelle Weyl" type="rss" xmlUrl="http://www.standardista.com/feed" htmlUrl="http://www.standardista.com"/>
+<outline text="Brandon Mathis" title="Brandon Mathis" type="rss" xmlUrl="http://feeds.brandonmathis.com/designenthusiast" htmlUrl="http://brandonmathis.com"/>
+<outline text="Tab Atkins" title="Tab Atkins" type="rss" xmlUrl="http://www.xanthir.com/blog/atom/" htmlUrl="http://www.xanthir.com/blog/"/>
+<outline text="David Leggett" title="David Leggett" type="rss" xmlUrl="http://www.theleggett.com/feed/" htmlUrl="http://theleggett.com"/>
+<outline text="Cabel Sasser" title="Cabel Sasser" type="rss" xmlUrl="http://www.cabel.name/atom.xml" htmlUrl="http://www.cabel.name/"/>
+<outline text="Jessica Caldwell" title="Jessica Caldwell" type="rss" xmlUrl="http://jtcdesign.com/index.php/feed/" htmlUrl="http://jtcdesign.com/blog/"/>
+<outline text="Mark Jaquith" title="Mark Jaquith" type="rss" xmlUrl="http://markjaquith.wordpress.com/feed/" htmlUrl="http://markjaquith.wordpress.com"/>
+<outline text="Jacob Cass" title="Jacob Cass" type="rss" xmlUrl="http://feeds.feedburner.com/JustCreativeDesignBlog" htmlUrl="http://justcreativedesign.com"/>
+<outline text="Jesse Bennett-Chamberlain" title="Jesse Bennett-Chamberlain" type="rss" xmlUrl="http://www.31three.com/rss/weblog/" htmlUrl="http://www.31three.com/notebook/"/>
+<outline text="Zoe Mickley Gillenwater" title="Zoe Mickley Gillenwater" type="rss" xmlUrl="http://zomigi.com/feed/" htmlUrl="http://zomigi.com/"/>
+<outline text="Jeremy Keith" title="Jeremy Keith" type="rss" xmlUrl="http://adactio.com/journal/rss" htmlUrl="http://adactio.com/journal/"/>
+<outline text="Mark Grabanski" title="Mark Grabanski" type="rss" xmlUrl="http://feeds.feedburner.com/allTrades" htmlUrl="http://marcgrabanski.com"/>
+<outline text="Alex Sexton" title="Alex Sexton" type="rss" xmlUrl="http://alexsexton.com/?feed=rss2" htmlUrl="http://alexsexton.com"/>
+<outline text="Andy Baio" title="Andy Baio" type="rss" xmlUrl="http://waxy.org/index.xml" htmlUrl="http://waxy.org/"/>
+<outline text="Jörn Zaefferer" title="Jörn Zaefferer" type="rss" xmlUrl="http://bassistance.de/feed/" htmlUrl="http://bassistance.de"/>
+<outline text="Ethan Marcotte" title="Ethan Marcotte" type="rss" xmlUrl="http://unstoppablerobotninja.com/feeds/rss20" htmlUrl="http://unstoppablerobotninja.com/"/>
+<outline text="Brandon Aaron" title="Brandon Aaron" type="rss" xmlUrl="http://feeds.feedburner.com/BrandonAaron" htmlUrl="http://brandonaaron.net/"/>
+<outline text="Chris Shiflett" title="Chris Shiflett" type="rss" xmlUrl="http://feeds.feedburner.com/shiflett" htmlUrl="http://shiflett.org/"/>
+<outline text="Steve Souders" title="Steve Souders" type="rss" xmlUrl="http://www.stevesouders.com/blog/feed/" htmlUrl="http://www.stevesouders.com/blog/"/>
+<outline text="M. Jackson Wilkinson" title="M. Jackson Wilkinson" type="rss" xmlUrl="http://feeds2.feedburner.com/jounce" htmlUrl="http://jounce.net/"/>
+<outline text="James Padolsey" title="James Padolsey" type="rss" xmlUrl="http://feeds.feedburner.com/JamesPadolsey" htmlUrl="http://james.padolsey.com"/>
+<outline text="Remy Sharp" title="Remy Sharp" type="rss" xmlUrl="http://feeds.feedburner.com/remysharp" htmlUrl="http://remysharp.com"/>
+<outline text="Peter-Paul Koch" title="Peter-Paul Koch" type="rss" xmlUrl="http://www.quirksmode.org/blog/index.xml" htmlUrl="http://www.quirksmode.org/blog/"/>
+<outline text="Jonathan Snook" title="Jonathan Snook" type="rss" xmlUrl="http://feeds.feedburner.com/snookca" htmlUrl="http://snook.ca/"/>
+<outline text="Mandy Brown" title="Mandy Brown" type="rss" xmlUrl="http://aworkinglibrary.com/library/rss/" htmlUrl="http://www.aworkinglibrary.com/library/writing"/>
+<outline text="Aarron Walter" title="Aarron Walter" type="rss" xmlUrl="http://feeds.feedburner.com/AarronWalter" htmlUrl="http://aarronwalter.com"/>
+<outline text="Andy Rutledge" title="Andy Rutledge" type="rss" xmlUrl="http://www.andyrutledge.com/feeds/arfeed.xml" htmlUrl="http://andyrutledge.com/"/>
+<outline text="Darren Hoyt" title="Darren Hoyt" type="rss" xmlUrl="http://feeds.feedburner.com/darrenhoytcom" htmlUrl="http://www.darrenhoyt.com"/>
+<outline text="Jason Beaird" title="Jason Beaird" type="rss" xmlUrl="http://feeds2.feedburner.com/jasongraphix" htmlUrl="http://jasongraphix.com/journal/"/>
+<outline text="Derek Powazek" title="Derek Powazek" type="rss" xmlUrl="http://feeds.feedburner.com/powazek" htmlUrl="http://powazek.com"/>
+<outline text="Dustin Diaz" title="Dustin Diaz" type="rss" xmlUrl="http://feeds.feedburner.com/WSwI" htmlUrl="http://dustindiaz.com"/>
+<outline text="Elliot Jay Stocks" title="Elliot Jay Stocks" type="rss" xmlUrl="http://elliotjaystocks.com/blog/feed/" htmlUrl="http://elliotjaystocks.com/blog/"/>
+<outline text="Garrett Dimon" title="Garrett Dimon" type="rss" xmlUrl="http://feeds.feedburner.com/garrettdimoncom" htmlUrl="http://garrettdimon.com/"/>
+<outline text="Ryan Seddon" title="Ryan Seddon" type="rss" xmlUrl="http://feeds.feedburner.com/TheCSSNinja" htmlUrl="http://www.thecssninja.com/"/>
+<outline text="Justin Tadlock" title="Justin Tadlock" type="rss" xmlUrl="http://feeds2.feedburner.com/JustinTadlock" htmlUrl="http://justintadlock.com"/>
+<outline text="Dan Cederholm" title="Dan Cederholm" type="rss" xmlUrl="http://www.simplebits.com/xml/rss.xml" htmlUrl="http://simplebits.com"/>
+<outline text="John Nack" title="John Nack" type="rss" xmlUrl="http://blogs.adobe.com/jnack/index.xml" htmlUrl="http://blogs.adobe.com/jnack"/>
+<outline text="Steve Smith" title="Steve Smith" type="rss" xmlUrl="http://feeds.feedburner.com/orderedlist" htmlUrl="http://orderedlist.com/blog/"/>
+<outline text="Jeffrey Zeldman" title="Jeffrey Zeldman" type="rss" xmlUrl="http://zeldman.com/rss/" htmlUrl="http://www.zeldman.com"/>
+<outline text="Mike Rundle" title="Mike Rundle" type="rss" xmlUrl="http://feeds.feedburner.com/Flyosity" htmlUrl="http://flyosity.com/"/>
+<outline text="Dave Shea" title="Dave Shea" type="rss" xmlUrl="http://www.mezzoblue.com/rss/index.xml" htmlUrl="http://mezzoblue.com/"/>
+<outline text="David Walsh" title="David Walsh" type="rss" xmlUrl="http://feeds.feedburner.com/Bludice" htmlUrl="http://davidwalsh.name/"/>
+<outline text="Eric Wendelin" title="Eric Wendelin" type="rss" xmlUrl="http://feeds.feedburner.com/EricWendelin" htmlUrl="http://eriwen.com"/>
+<outline text="Matt Varone" title="Matt Varone" type="rss" xmlUrl="http://feeds.feedburner.com/feed/mattvarone" htmlUrl="http://www.mattvarone.com/"/>
+<outline text="Mark Boulton" title="Mark Boulton" type="rss" xmlUrl="http://www.markboulton.co.uk/journal/rss_2.0/" htmlUrl="http://www.markboulton.co.uk"/>
+<outline text="Meagan Fisher" title="Meagan Fisher" type="rss" xmlUrl="http://owltastic.com/feed/" htmlUrl="http://owltastic.com"/>
+<outline text="Anil Dash" title="Anil Dash" type="rss" xmlUrl="http://feeds.feedburner.com/AnilDash" htmlUrl="http://dashes.com/anil/"/>
+<outline text="Chris Spooner" title="Chris Spooner" type="rss" xmlUrl="http://feeds.feedburner.com/SpoonGraphics" htmlUrl="http://www.blog.spoongraphics.co.uk"/>
+<outline text="Jon Hicks" title="Jon Hicks" type="rss" xmlUrl="http://feeds.feedburner.com/hicksdesign" htmlUrl="http://hicksdesign.co.uk/journal/"/>
+<outline text="Marco Kuiper" title="Marco Kuiper" type="rss" xmlUrl="http://feeds2.feedburner.com/marcofolio" htmlUrl="http://www.marcofolio.net/"/>
+<outline text="David Airey" title="David Airey" type="rss" xmlUrl="http://feeds.feedburner.com/CreativeDesign" htmlUrl="http://www.davidairey.com"/>
+<outline text="John Gruber" title="John Gruber" type="rss" xmlUrl="http://daringfireball.net/index.xml" htmlUrl="http://daringfireball.net/"/>
+<outline text="Luke Wroblewski" title="Luke Wroblewski" type="rss" xmlUrl="http://feeds.feedburner.com/FunctioningForm" htmlUrl="http://www.lukew.com/ff/"/>
+<outline text="Rebecca Murphey" title="Rebecca Murphey" type="rss" xmlUrl="http://blog.rebeccamurphey.com/rss.xml" htmlUrl="http://blog.rebeccamurphey.com/"/>
+<outline text="Doug Neiner" title="Doug Neiner" type="rss" xmlUrl="http://dougneiner.com/rss" htmlUrl="http://dougneiner.com/"/>
+<outline text="Joost DeValk" title="Joost DeValk" type="rss" xmlUrl="http://feeds.feedburner.com/joostdevalk" htmlUrl="http://yoast.com"/>
+<outline text="Jeff Starr" title="Jeff Starr" type="rss" xmlUrl="http://feeds.feedburner.com/perishablepress" htmlUrl="http://perishablepress.com"/>
+<outline text="Nicolas Gallagher" title="Nicolas Gallagher" type="rss" xmlUrl="http://nicolasgallagher.com/feed/" htmlUrl="http://nicolasgallagher.com"/>
+<outline text="Soh Tanaka" title="Soh Tanaka" type="rss" xmlUrl="http://feeds2.feedburner.com/sohtanaka" htmlUrl="http://www.sohtanaka.com"/>
+<outline text="Jeff Croft" title="Jeff Croft" type="rss" xmlUrl="http://feeds.feedburner.com/jeffcroft/blog" htmlUrl="http://jeffcroft.com/"/>
+<outline text="Cameron Moll" title="Cameron Moll" type="rss" xmlUrl="http://cameronmoll.tumblr.com/rss" htmlUrl="http://cameronmoll.tumblr.com/"/>
+<outline text="Jon Tan" title="Jon Tan" type="rss" xmlUrl="http://feeds.feedburner.com/jontangerine" htmlUrl="http://jontangerine.com/"/>
+<outline text="Kevin Rose" title="Kevin Rose" type="rss" xmlUrl="http://feeds.feedburner.com/krose" htmlUrl="http://kevinrose.com/"/>
+<outline text="Trent Walton" title="Trent Walton" type="rss" xmlUrl="http://trentwalton.com/feed/" htmlUrl="http://trentwalton.com"/>
+<outline text="Sam Brown" title="Sam Brown" type="rss" xmlUrl="http://feeds.feedburner.com/massiveblue/sam" htmlUrl="http://sam.brown.tc/"/>
+<outline text="Shaun Inman" title="Shaun Inman" type="rss" xmlUrl="http://www.shauninman.com/feeds/plus" htmlUrl="http://www.shauninman.com/"/>
+<outline text="Noah Stokes" title="Noah Stokes" type="rss" xmlUrl="http://feeds2.feedburner.com/esbueno" htmlUrl="http://esbueno.noahstokes.com/"/>
+<outline text="Mike Davidson" title="Mike Davidson" type="rss" xmlUrl="http://feeds2.feedburner.com/mikeindustries" htmlUrl="http://www.mikeindustries.com/blog"/>
+<outline text="Kristen Symonds" title="Kristen Symonds" type="rss" xmlUrl="http://feeds.feedburner.com/kristarella/blog" htmlUrl="http://www.kristarella.com"/>
+<outline text="Garrett Murray" title="Garrett Murray" type="rss" xmlUrl="http://feeds2.feedburner.com/garrettmurray/log" htmlUrl="http://log.maniacalrage.net/"/>
+<outline text="Lee Munroe" title="Lee Munroe" type="rss" xmlUrl="http://feeds2.feedburner.com/LeeMunroeBlog" htmlUrl="http://www.leemunroe.com"/>
+<outline text="Kyle Steed" title="Kyle Steed" type="rss" xmlUrl="http://feeds.feedburner.com/KyleSteed" htmlUrl="http://kylesteed.com"/>
+<outline text="Jina Bolton" title="Jina Bolton" type="rss" xmlUrl="http://feeds.feedburner.com/SushiRobots" htmlUrl="http://sushiandrobots.com/"/>
+<outline text="Kyle Bragger" title="Kyle Bragger" type="rss" xmlUrl="http://kylewritescode.com/rss" htmlUrl="http://kylewritescode.com/"/>
+<outline text="Jason Santa Maria" title="Jason Santa Maria" type="rss" xmlUrl="http://jasonsantamaria.com/articles/rss/" htmlUrl="http://jasonsantamaria.com/"/>
+<outline text="Nicole Sullivan" title="Nicole Sullivan" type="rss" xmlUrl="http://www.stubbornella.org/content/feed/" htmlUrl="http://www.stubbornella.org/"/>
+<outline text="Kat Neville" title="Kat Neville" type="rss" xmlUrl="http://www.safetygoat.co.uk/feed/" htmlUrl="http://www.safetygoat.co.uk/blog/"/>
+<outline text="Mike Hostetler" title="Mike Hostetler" type="rss" xmlUrl="http://feeds.feedburner.com/mikehostetler-rss" htmlUrl="http://mike-hostetler.com/"/>
+<outline text="Michael Lopp" title="Michael Lopp" type="rss" xmlUrl="http://www.randsinrepose.com/index.xml" htmlUrl="http://www.randsinrepose.com/"/>
+<outline text="Larissa Meek" title="Larissa Meek" type="rss" xmlUrl="http://larissameek.com/feed/" htmlUrl="http://larissameek.com/"/>
+<outline text="Steven Wittens" title="Steven Wittens" type="rss" xmlUrl="http://acko.net/blog/feed" htmlUrl="http://acko.net/"/>
+<outline text="Seth Godin" title="Seth Godin" type="rss" xmlUrl="http://feeds.feedburner.com/typepad/sethsmainblog" htmlUrl="http://sethgodin.typepad.com/seths_blog/"/>
+<outline text="Alex Payne" title="Alex Payne" type="rss" xmlUrl="http://feeds.feedburner.com/al3x" htmlUrl="http://al3x.net/"/>
+<outline text="Greg Storey" title="Greg Storey" type="rss" xmlUrl="http://feeds.feedburner.com/airbag" htmlUrl="http://www.airbagindustries.com/"/>
+<outline text="Tiffani Jones Brown" title="Tiffani Jones Brown" type="rss" xmlUrl="http://secondandpark.com/feed/" htmlUrl="http://secondandpark.com/blog/"/>
+<outline text="Khoi Vinh" title="Khoi Vinh" type="rss" xmlUrl="http://feeds2.feedburner.com/subtraction" htmlUrl="http://www.subtraction.com/"/>
+<outline text="Steve Gibson" title="Steve Gibson" type="rss" xmlUrl="http://steve.grc.com/feed/" htmlUrl="http://steve.grc.com"/>
+<outline text="Andy Budd" title="Andy Budd" type="rss" xmlUrl="http://www.andybudd.com/index.rdf" htmlUrl="http://www.andybudd.com/"/>
+<outline text="Olav Bjorkoy" title="Olav Bjorkoy" type="rss" xmlUrl="http://feeds.feedburner.com/bjorkoy" htmlUrl="http://bjorkoy.com/"/>
+<outline text="Paul Irish" title="Paul Irish" type="rss" xmlUrl="http://feeds.feedburner.com/paul-irish" htmlUrl="http://paulirish.com/"/>
+<outline text="Veerle Pieters" title="Veerle Pieters" type="rss" xmlUrl="http://feeds.feedburner.com/veerlesblog" htmlUrl="http://veerle.duoh.com"/>
+<outline text="Rob Glazebrook" title="Rob Glazebrook" type="rss" xmlUrl="http://feeds.feedburner.com/cssnewbie/" htmlUrl="http://www.cssnewbie.com"/>
+<outline text="Trevor Davis" title="Trevor Davis" type="rss" xmlUrl="http://feeds2.feedburner.com/TrevorDavisFullBlog" htmlUrl="http://trevordavis.net/"/>
+<outline text="Tim Wright" title="Tim Wright" type="rss" xmlUrl="http://www.csskarma.com/blog/feed/" htmlUrl="http://www.csskarma.com/"/>
+<outline text="Bill Scott" title="Bill Scott" type="rss" xmlUrl="http://feeds.feedburner.com/LooksGoodWorksWell" htmlUrl="http://looksgoodworkswell.blogspot.com/"/>
+<outline text="Tim Kadlec" title="Tim Kadlec" type="rss" xmlUrl="http://feeds.feedburner.com/timkadlecfull" htmlUrl="http://timkadlec.com"/>
+<outline text="Christian Watson" title="Christian Watson" type="rss" xmlUrl="http://feeds.feedburner.com/smileycat" htmlUrl="http://www.smileycat.com/"/>
+<outline text="Lukas Mathis" title="Lukas Mathis" type="rss" xmlUrl="http://feeds.feedburner.com/IgnoreTheCode" htmlUrl="http://ignorethecode.net/blog/"/>
+<outline text="Cindy Li" title="Cindy Li" type="rss" xmlUrl="http://www.cindyli.com/index.php/site/atom/" htmlUrl="http://www.cindyli.com/"/>
+<outline text="Jack Osborne" title="Jack Osborne" type="rss" xmlUrl="http://feeds2.feedburner.com/jackosbornecouk" htmlUrl="http://jackosborne.co.uk/"/>
+<outline text="Aaron Irizarry" title="Aaron Irizarry" type="rss" xmlUrl="http://www.thisisaaronslife.com/feed/" htmlUrl="http://www.thisisaaronslife.com"/>
+<outline text="Patrick Haney" title="Patrick Haney" type="rss" xmlUrl="http://feeds2.feedburner.com/patrickhaney" htmlUrl="http://patrickhaney.com/"/>
+<outline text="Ryan Irelan" title="Ryan Irelan" type="rss" xmlUrl="http://feeds.feedburner.com/irelan-becoming" htmlUrl="http://ryanirelan.com/"/>
+<outline text="Roger Johansson" title="Roger Johansson" type="rss" xmlUrl="http://feeds.feedburner.com/456bereastreet" htmlUrl="http://www.456bereastreet.com/"/>
+<outline text="Paddy Donnelly" title="Paddy Donnelly" type="rss" xmlUrl="http://feeds2.feedburner.com/iampaddy" htmlUrl="http://iampaddy.com/"/>
+<outline text="Kyle Simpson" title="Kyle Simpson" type="rss" xmlUrl="http://blog.getify.com/feed/" htmlUrl="http://blog.getify.com/"/>
+<outline text="Erica Sirotich" title="Erica Sirotich" type="rss" xmlUrl="http://elemenoperica.tumblr.com/rss" htmlUrl="http://www.cuddlefishpress.com/"/>
+<outline text="Radu Chelariu" title="Radu Chelariu" type="rss" xmlUrl="http://feeds.feedburner.com/Sickdesigner" htmlUrl="http://sickdesigner.com/"/>
+<outline text="Jessica Hische" title="Jessica Hische" type="rss" xmlUrl="http://www.jessicahische.is/obsessedwiththeinternet/feed" htmlUrl="http://www.jessicahische.is/obsessedwiththeinternet/"/>
+
+    </body>
+</opml>
